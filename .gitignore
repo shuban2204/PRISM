@@ -1,0 +1,6 @@
+venv/
+data/
+tmp_trainer/
+submissions.csv
+models/
+__pycache__/

@@ -1,0 +1,10 @@
+pandas
+numpy
+scipy
+torch
+transformers
+accelerate
+scikit-learn
+lightgbm
+joblib
+protobuf

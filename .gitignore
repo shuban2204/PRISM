@@ -1,6 +1,6 @@
 venv/
 data/
 tmp_trainer/
-submissions.csv
+submission.csv
 models/
 __pycache__/
